@@ -23,7 +23,7 @@ repository               : "soafriyie/soafriyie.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "image.jpg"
+  avatar           : "image.jpeg"
   name             : "Samuel Osei Afriyie"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate"
