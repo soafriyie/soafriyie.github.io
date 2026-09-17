@@ -7,4 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit 
+Hi, welcome to my webpage!
+
+Samuel Osei Afriyie is a PhD Candidate in Economics at the University of Insubria in Varese, Italy.  Samuel’s research interests lie at the intersection of Economics of Innovation, Environmental Economics, and Network Analysis with patent data, with a secondary focus on Machine Learning Applications.
+
+
